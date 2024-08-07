@@ -17,12 +17,6 @@ import Bean.City;
 import Bean.Info;
 import Dao.InfoDao;
 
-/**
- * 
- * @author 王正帅
- * @date: 2020年3月3日 下午3:51:12 
- *
- */
 @WebServlet("/info")
 public class InfoServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
